@@ -1,0 +1,79 @@
+{
+  "main": {
+    "name":"Max Hirsch",
+    "description":"I am a programmer, engineer, and inventor",
+    "image":"profilepic.jpg",
+    "bio":"I'm Max, I program computers for Unisys. I write system software for the MCP kernel and firmware. I also worked in emerging technologies building machine learning solutions. When not writing software I am  doing Brazilian Jiu Jitsu, surfing, or playing video games.",
+    "social":[
+      {
+        "name":"gmail",
+        "url":"mailto:max.hirsch@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/maxhirsch/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mghyo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skills":[
+      {
+        "name":"C++ & C"
+      },
+      {
+        "name":"Python"
+      },
+      {
+        "name":"Machine Learning"
+      },
+      {
+        "name":"Computer Architecture"
+      },
+      {
+        "name":"Git"
+      }
+    ],
+    "work":[
+      {
+        "company":"Unisys Corporation",
+        "title":"Software Engineer",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"Delaware County Community College",
+        "title":"Adjunct Faculty, Professional Tutor",
+        "years":"",
+        "description":""
+      }
+    ],
+    "education":[
+      {
+        "school":"Georgia Institute of Technology",
+        "degree":"MS, Computer Science"
+        },
+      {
+        "school":"Temple University",
+        "degree":"BEng, Electrical and Computer Engineering"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"todo",
+        "category":"todo",
+        "image":"todo",
+        "url":"todo"
+      }
+    ]
+  }
+}
