@@ -1,0 +1,78 @@
+{
+  "main": {
+    "name": "Max Hirsch",
+    "description": "Programmer, Engineer, Inventor",
+    "image": "profilepic.jpg",
+    "bio": "I am a programmer, engineer, and inventor. I have written operating system software, built compilers, emulated hardware, developed machine learning & deep learning solutions, and designed high performance parallel algorithms.",
+    "email": "mu.gamma.eta@gmail.com",
+    "social": [
+      {
+        "name": "email",
+        "url": "mailto:mu.gamma.eta@gmail.com",
+        "className": "fa-regular fa-envelope"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/maxhirsch/",
+        "className": "fa-brands fa-linkedin"
+      },
+      {
+        "name": "medium",
+        "url": "http://medium.com/maxhirsch",
+        "className": "fa-brands fa-medium"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/mghyo",
+        "className": "fa-brands fa-github"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here's some things I have used and know about.",
+    "work": [
+      {
+        "company": "FORT Robotics",
+        "title": "Embedded Software Engineer",
+        "years": "2020-Present",
+        "description": " Used C++, Python, C, CMake, Conan, & Yocto to develop system services, drivers and applications on Embedded Linux & RTOS"
+      },
+      {
+        "company": "Unisys",
+        "title": "Software Engineer",
+        "years": "2016-2020",
+        "description": "System programming for MCP operating system kernel & firmware in C++, C, Java, and ALGOL"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C, C++, Python, Node.js, ALGOL"
+      },
+      {
+        "name": "TensorFlow, scikit-learn, AWS SageMaker"
+      },
+      {
+        "name": " CMake, Yocto, LLVM"
+      },
+      {
+        "name": "Git, Docker, Kubernetes, Jira, SVN"
+      },
+      {
+        "name": "Linux, RTOS (FreeRTOS, Zephyr), Android, Windows"
+      }
+    ],
+    "education": [
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "MS, Computer Science",
+        "description": "T.A. for CS 7641 (Machine Learning)"
+      },
+      {
+        "school": "Temple University",
+        "degree": "BSEE, Electrical Engineering",
+        "description": "HKN - Iota Sigma (EE Honors Society)"
+      }
+    ]
+  }
+}
